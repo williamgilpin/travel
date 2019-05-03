@@ -60,9 +60,9 @@ Asakusa (Buddhist temple), Taito, Tokyo
 + Mandarake: manga, dolls, figurines. Open until 8 pm
 + Super Potato: Video games, antique video game stuff. Open 11 am - 8 pm
 + VStone, Kondo, RT, Technologia, Tsukomo robot kingdom
-+ Robot shops: Robot Shops! (those small humanoid fighting robots for example)
++ Robot shops: Robot Shops! (small humanoid fighting robots)
 
-Places to eat: plenty nearby. 
+Quick places to eat: plenty nearby. 
 + GoGo Curry is a well-reviewed chain that a ticket ordering system.
 + Several smaller shops nearby serving small fare like ramen and curry
 
@@ -81,10 +81,11 @@ Places to eat: plenty nearby.
 
 ### Shinjuku
 Don Quijote Shinjuku
-"Red Light" district has good late night coffee shops
++ This is near a slightly seedy "Red Light" district, although it is still reasonably safe to go here at night
++ +  A lot of good late night pastry/coffee shops in this area
 + Bicqlo store
 + Sumitomo Building free observation deck
-++ This has bad lighting/glare at night that makes it hard to see/take photos
++ + This has bad lighting/glare at night that makes it hard to see/take photos
 + Tokyo Government building North Observation Deck: 9:30 a.m. - 10:30 p.m.
 + Owl cafe
 
@@ -92,12 +93,13 @@ Edo-Tokyo Open Air Architectural Museum
 
 ### Shibuya:
 + Watari Museum of Contemporary Art (closes at 7, closed mondays)
-+ kiddy land toy store(9 pm)
++ + This has a lot of western art, but a few other things
++ kiddy land toy store (9 pm)
 + cat street
 + Meiji Shrine and gardens: 
 ++ Open until 4:40 in October, free admission
 ++ Chuo Sobu Line—>Yoyogi station
-++ The "private garden" was open until five, cost 500 JPY
+++ The "private garden" was open until five, cost 500 JPY and was very much worth seeing
 + Takeshita Street
 ++ Very close to the shrine, Harajuku station
 ++ Worth walking down, touristy but fascinating and busy
